@@ -1,0 +1,56 @@
+Git and GitHub
+
+
+Git:
+
+A Git is the Version Control Systems(VCS) are used to maintain the Source code, during the developement of the Software.
+
+
+there are the 4 stages:
+
+->working directory
+->staging Area
+->local Repository
+->Remote Repository.
+
+
+command:
+before going to this all stages we need to use the 
+git init->to initialize the github folder
+git status->What are the files are there in the specific folder.
+we 
+
+->working directory:
+All the Files will be there in this Stage, like what are the files are there in the System. 
+
+->Staging Area:
+Consider like if we Want to send the particular file using to this stage we can use the command, only the single file
+added.
+-->git add example.txt
+-->git add code.py
+-->git add code1.py
+
+local Repository
+
+all the files to be saved in this stage.
+command:
+
+git commit-m "All the file to be saved.."
+git remote add origin http://github.com/alex-to-.git
+
+
+Remote Repository
+-->afer completion of the local repository phase we need to use this phase. To Save all the files, and files to be saved in the directory.
+
+command
+
+git push -u origin main
+
+
+
+GitHub:
+
+A GitHub is the Web-Based Software used to store the repositories (SourceCode and files). it also the Hosting the Software
+which means the software can be stored inside the Server..
+
+

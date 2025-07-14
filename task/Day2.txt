@@ -1,0 +1,88 @@
+1)IntelliJ/Eclipse:
+
+are used for the Integrated Developement Envirnoments(IDE's) are used for the java developement Programmes.
+
+
+Uses
+
+It Makes the code for Faster Compilation, Auto-compilation.
+
+It is big advantage for the debugging the tools like the ,breakpoints,watchpoints.
+
+It is also used for the refactoring the tools like changes in the code and easy to maintatin that code.
+
+
+2)First Java Programme(Hello World)
+
+public class dem1{
+public static void main(String[] args){
+System.out.println("Hello, World!");
+}
+}
+
+
+3)Varible
+
+A Varible are used to store the data.
+2 types:
+Local Variable,Instance Variable
+
+local variable are used to declare the inside the method, jvm will not provide the default values,it is used to stored in the 
+Stack Segment.
+
+Instance Variable are used to declare the inside the class, by default jvm will provide the default values, it is used to
+stored in the heap segment.
+
+
+DataType:
+
+A Datatype are used to that convert the real world data into the 0's and 1's.
+
+2 Types:
+Primitive DataType, Non Primitive DataType
+
+a)Primitive DataType:
+2 types:
+Numeric and Non Numeric
+
+Numeric: Byte(1) , Short(2), Int(4), Long(8), Float(4), Double(8).
+Non Numeric: Bool(True/False),Char(2);
+
+b)Non Primitive DataType
+they are the class, objects, strings, arrays this are the non primitive datatypes.
+
+Scanner:
+A Scanner are used to the read the input from the user.
+We are importing from the util package.
+like the import java.util.*;
+
+public class dem{
+public static void main(String[] args){
+Scanner scan=new Scanner(System.in);
+System.out.println("Enter the Name:");
+String Name=scan.nextLine();
+int age=scan.nextInt();
+System.out.println("Name:"+Name+"Age:"+age);
+scan.close();
+}
+}
+After taking all the i/p from the user we need to close the scanner
+
+
+Comments:
+A comments are used to the Not Executable Statements in the Java Source code.
+
+types:
+Single Line comments(//hello world)
+Multiline comments(/*starts with
+*and the 
+*ends with */)
+
+
+
+Git & GitHub
+
+Git is the Version Control Systems, it used to maintain the source code  during the developement of the software.
+
+GitHub is the Web-Based software Hosting the software which means maintain the software in the server.
+

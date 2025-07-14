@@ -1,0 +1,61 @@
+1)what is the Software Developement and it's types?
+>A software Developement is the process of creating the software and maintain of the Software..
+
+like we have 
+Design, Coding,Testing, Deployment, Maintainence.
+
+Design:
+In this phase we are planning the Structure and functionality of the Software.including the user interfaces.
+
+Coding:
+here the Actual instruction of the Computer what do and the how to do.In the Specific programming languages. Such as c,c++,java,python.
+
+Testing:
+here the software can be the tested according to meet the user Requirements.
+like unit testing, integration testing.
+
+A unit testing:it is used to the function can be correctly working or not. 
+consider an example:
+like the sum function it should return the correct result for the various inputs.
+
+integration Testing:
+here it can be used to the where the two endpoints modules  working correctly or not.
+
+
+consider an example:
+here we using the payment process  module and the order mangement system are working correctly or not
+
+Deployement :
+After testing the Software it should available for the users. deployment in the server and install that software in the System..
+
+Maintainance:
+
+After developing the Software.it should be the bug fixes, and updating the software, and maintain that software with all 
+the Functionality..
+
+
+
+what is the Software. Types of the Software?
+>A software it consists of the set of the instructions.that is used to the operate the computers and the other devices..
+
+types of the software.
+->System software
+->web software.
+->mobile software
+
+
+System Software :
+A System Software that is intermediatry user and the computer hardware.
+for example:operating System(Linux, Windows, Mac)
+
+
+web Software:
+A web software is also known as the web applications.
+that are used in the browser with the internet run this software.
+for example like:ecommerce website.
+
+Application Software:
+An application software it will work on the smartphone,Tablets.
+for example:
+->Candy Crush.
+->Dr Driving.
