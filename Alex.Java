@@ -3,6 +3,7 @@ public class Alex{
         int num=10;
         for(int i=0;i<=num;i++ ){
             System.out.println("Hello Alex..");
+            System.out.println("Hello Alex..");
         }
     }
 }
