@@ -9,7 +9,7 @@ public class DayThree01 {
         int num1 = scan.nextInt();
         System.out.println("Enter the Second Number.");
         int num2 = scan.nextInt();
-        // scan.nextLine();
+        scan.nextLine();
         System.out.println("Enter the Operator you want(add,diff,mul,div)");
         String oper = scan.nextLine().toLowerCase();
 
