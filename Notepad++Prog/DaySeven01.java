@@ -8,32 +8,32 @@ public static void main(String[] args){
 	
 	
 	/* To count the array elements..*/
-// int num[]={10,20,30,40};
-// int count=0;
-// for(int i=0;i<num.length;i++){
-// count++;
-// }
-// System.out.println(count);
+ int num[]={10,20,30,40};
+ int count=0;
+ for(int i=0;i<num.length;i++){
+	 count++;
+}
+System.out.println(count);
 // System.out.println(num.length);
 
 
-// print the even  Numbers  in the array
+print the even  Numbers  in the array
 
-// int num[]={10,20,2,30,4,50,6,70};
-// for(int i=2;i<num.length;i=i+2){
-// System.out.println(num[i]);
-// }
-// }
-// }
+int num[]={10,20,2,30,4,50,6,70};
+for(int i=2;i<num.length;i=i+2){
+System.out.println(num[i]);
+}
+}
+}
 
-// Print even-indexed elements (0, 2, 4, 
+Print even-indexed elements (0, 2, 4, 
 
- // int num[]={10,20,2,30,4,50,6,70};
-// for(int i=0;i<num.length;i=i+2){
-// System.out.println(num[i]);
-// }
-// }
-// }
+ int num[]={10,20,2,30,4,50,6,70};
+for(int i=0;i<num.length;i=i+2){
+System.out.println(num[i]);
+}
+}
+}
 
 
 // Find the index of a given element (Linear Search).
